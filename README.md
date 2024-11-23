@@ -1,2 +1,2 @@
 # NoteX
-Project of GL
+Project of GL..
